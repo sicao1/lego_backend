@@ -38,5 +38,5 @@ The implementation of this schema reflects a deliberate and comprehensive approa
 * Have the ability to post on a community forum
 
 ## Helpful Links ##
-Live site: https://jazzy-pothos-85e300.netlify.app/
+Live site: https://jazzy-pothos-85e300.netlify.app/ <br />
 Github Frontend: https://github.com/sicao1/lego_frontend

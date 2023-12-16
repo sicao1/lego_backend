@@ -2,7 +2,6 @@
 This Django application manages Lego sets, allowing users to track details of their Lego collection, wishlist items, and more.
 
 ## Installing ##
-
 * Fork this repository
 * Clone your forked repository
 * npm i

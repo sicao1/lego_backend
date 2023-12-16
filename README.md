@@ -39,3 +39,4 @@ The implementation of this schema reflects a deliberate and comprehensive approa
 
 ## Helpful Links ##
 Live site: https://jazzy-pothos-85e300.netlify.app/
+Github Frontend: https://github.com/sicao1/lego_frontend
